@@ -1,0 +1,12 @@
+==41382== Callgrind, a call-graph generating cache profiler
+==41382== Copyright (C) 2002-2017, and GNU GPL'd, by Josef Weidendorfer et al.
+==41382== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==41382== Command: ./main -n 10 -r 1
+==41382== Parent PID: 41373
+==41382== 
+==41382== For interactive control, run 'callgrind_control -h'.
+==41382== 
+==41382== Events    : Ir
+==41382== Collected : 6934882
+==41382== 
+==41382== I   refs:      6,934,882
